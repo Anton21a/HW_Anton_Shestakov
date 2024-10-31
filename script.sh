@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Change to your repository's directory (replace with your actual path)
 cd /path/to/your/repo
 
 # Pull the latest changes from the remote repository
