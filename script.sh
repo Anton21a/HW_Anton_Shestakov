@@ -6,7 +6,7 @@ git pull origin main
 
 git add .
 
-commit_message=${1:-"Update files"}
+commit_message=${1:-"Update files (note: check script.sh)"}
 git commit -m "$commit_message"
 
 git push origin main
